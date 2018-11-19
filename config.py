@@ -1,0 +1,11 @@
+
+MYSQL_DATABASE_USER = '#####'
+MYSQL_DATABASE_PASSWORD = '#####'
+MYSQL_DATABASE_DB = 'paper_research'
+MYSQL_DATABASE_HOST = 'localhost'
+MAIL_SERVER='smtp.gmail.com'
+MAIL_PORT = 465
+MAIL_USERNAME = '#####'
+MAIL_PASSWORD = '#####'
+MAIL_USE_TLS = False
+MAIL_USE_SSL = True
